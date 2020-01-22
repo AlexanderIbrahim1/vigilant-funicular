@@ -2,4 +2,6 @@ cat
 dog
 fish
 bird
-rodent
+worm
+snail
+crawfish
